@@ -1,1 +1,105 @@
-# ReadMe
+{
+  "version": "1.0.0",
+  "exportedAt": "2026-04-22T08:58:08.640Z",
+  "profile": {
+    "title": "Fenni Badr",
+    "subtitle": "Full-Stack developer",
+    "currentWork": "",
+    "currentLearn": "",
+    "collaborateOn": "Open source projects",
+    "helpWith": "",
+    "ama": "JavaScript, PHP, React ...",
+    "contact": "badrfny.dev@gmail.com",
+    "funFact": "I think im calm",
+    "visitorsBadge": true,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": false,
+    "githubStats": false,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": false,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": false,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "https://hamburg-car.com/",
+    "blog": "",
+    "resume": ""
+  },
+  "social": {
+    "github": "baadrfny",
+    "dev": "",
+    "linkedin": "Badr Fenni",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "bootstrap",
+    "c",
+    "cplusplus",
+    "css3",
+    "figma",
+    "git",
+    "html5",
+    "javascript",
+    "laravel",
+    "mysql",
+    "php",
+    "postman",
+    "python",
+    "react",
+    "sqlite",
+    "tailwind",
+    "typescript",
+    "unity",
+    "vuejs"
+  ]
+}
